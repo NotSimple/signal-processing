@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from helpers import ensure_dir
+from .helpers import ensure_dir
 
 
 def plot_complex2d(real_x, complex_y,
